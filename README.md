@@ -14,6 +14,6 @@
 ### ![](img/front-end.png) UI testing
 + [test automation project example](https://github.com/dtitar/automation-framework-example) - *Example project of ligastavok.ru testing using java\selenide\allure*
 
-### ![](img/graduated.png) Passed courses
+### ![](img/graduated.png) Completed courses
 + [2021] [qaguru java automation](https://github.com/dtitar/qa-guru-java-automation-course) - *Project with homework for qa.guru java test automation course*
 + [2022] [learnqa mobile automation course](https://github.com/dtitar/java-appium-wikipedia-example) - *Project with homework for learnqa.ru java mobile test automation course*
