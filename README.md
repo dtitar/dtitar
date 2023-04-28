@@ -1,16 +1,19 @@
+# ![](img/biography_64.png) About me
+
 ### Hi there 👋
+*My name is Dmitrii (You can call me Dima)*  
+*I am a **test automation engineer** with 5+ years of experience in the field*  
+*I'm inspired by Java\Kotlin software stack and development, automation and ci\cd processes*  
+*I'm currently learning Android development*  
 
-<!--
-**dtitar/dtitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![](img/businessman.png) Projects
+***This is a list of example and helpful projects created by me***
+<hr>
 
-Here are some ideas to get you started:
+## ![](img/java_64.png) Java
+### ![](img/front-end.png) UI testing
++ [test automation project example](https://github.com/dtitar/automation-framework-example) - *Example project of ligastavok.ru testing using java\selenide\allure*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ![](img/graduated.png) Passed courses
++ [2021] [qaguru java automation](https://github.com/dtitar/qa-guru-java-automation-course) - *Project with homework for qa.guru java test automation course*
++ [2022] [learnqa mobile automation course](https://github.com/dtitar/java-appium-wikipedia-example) - *Project with homework for learnqa.ru java mobile test automation course*
