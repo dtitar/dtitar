@@ -1,7 +1,7 @@
 # ![](img/biography_64.png) About me
 
 ### Hi there 👋
-*My name is Dmitrii (You can call me Dima)*  
+*I'am Dmitrii*  
 *I am a **test automation engineer** with 6+ years of experience in the field*  
 *I'm inspired by Java\Kotlin software stack and development, automation and ci\cd processes*  
 *I'm currently learning Android development*  
